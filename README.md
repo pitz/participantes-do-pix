@@ -2,6 +2,7 @@
 
 Transforme a lista abaixo em RAW para tornar legível:
 
+```groovy
 [
          [ispb: "29082022", cnpj: "29.082.022/0001-20", name: "360 New Soluções Tecnológicas Ltda."]
         ,[ispb: "14341675", cnpj: "14.341.675/0001-09", name: "AB Business Consultoria e Planejamento Empresarial Ltda."]
@@ -934,3 +935,4 @@ Transforme a lista abaixo em RAW para tornar legível:
         ,[ispb: "18236120", cnpj: "18.236.120/0001-58", name: "Nu Pagamentos S.A."]
         ,[ispb: "37241230", cnpj: "37.241.230/0001-52", name: "Sumup Sociedade de Crédito Direto S.A."]
     ]
+```
