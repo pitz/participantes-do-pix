@@ -1,4 +1,7 @@
 # Participantes-do-pix
+
+Transforme a lista abaixo em RAW para tornar legível:
+
 [
          [ispb: "29082022", cnpj: "29.082.022/0001-20", name: "360 New Soluções Tecnológicas Ltda."]
         ,[ispb: "14341675", cnpj: "14.341.675/0001-09", name: "AB Business Consultoria e Planejamento Empresarial Ltda."]
