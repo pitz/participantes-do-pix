@@ -1,7 +1,5 @@
 # Lista de participantes do Pix com ISPB, CNPJ e Nome.
 
-Transforme a lista abaixo em RAW para tornar legível:
-
 ```groovy
 [
          [ispb: "29082022", cnpj: "29.082.022/0001-20", name: "360 New Soluções Tecnológicas Ltda."]
