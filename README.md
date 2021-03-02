@@ -1,4 +1,4 @@
-# Participantes-do-pix
+# Lista de participantes do Pix com ISPB, CNPJ e Nome.
 
 Transforme a lista abaixo em RAW para tornar legível:
 
